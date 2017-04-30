@@ -9,7 +9,3 @@ first
 I/O
 node
 program
-
-
-
-
