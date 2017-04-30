@@ -1,0 +1,25 @@
+{
+  "name": "@pliskintech/mydevenv",
+  "version": "1.1.0",
+  "description": "My sample Development Environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "node testcodes/mydevenvtest.js"
+  },
+  "keywords": [
+    "self-study",
+    "npm"
+  ],
+  "author": "Joan Escano",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pliskintech/myenvdev.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pliskintech/myenvdev/issues"
+  },
+  "homepage": "https://github.com/pliskintech/myenvdev#readme"
+}
